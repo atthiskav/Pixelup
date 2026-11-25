@@ -1,0 +1,7 @@
+PIXELUP — arquivos do site
+
+Este ZIP contém o código-fonte do site, as páginas inicial e de soluções, os botões de WhatsApp e o formulário de recomendação por IA.
+
+Não é um HTML para abrir com dois cliques. Para executar, instale as dependências com bun install e inicie com bun run dev.
+
+Senhas, arquivo .env, histórico do repositório e dependências instaladas não foram incluídos. Para executar fora do Lovable, é necessário configurar o ambiente e o acesso ao AI Gateway; o ZIP não transfere a hospedagem nem os serviços do Lovable Cloud.
